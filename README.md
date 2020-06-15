@@ -7,5 +7,5 @@
 **Durée :** 7 mois      
 **Equipe :** 4 personnes       
 **But du livrable :** Pouvoir récupérer le contenu d'une facture .pdf sous forme de texte et récupérer les informations nécéssaires       
-**Classement :** En cours       
+**Classement :** 1er sur 14 projets       
 **Lien :** http://samuelplaton.com/c-developpement-de-plugins/
